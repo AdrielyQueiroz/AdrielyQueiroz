@@ -1,4 +1,3 @@
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMDAwIi8+Cjxzdmc+Cg==">
 <p align="left">Olá! Eu sou Adriely Queiroz 👋🏻.<br><br>Estagiária em Desenvolvimento Front-End, sou apaixonada em criar interfaces dinâmicas e responsivas.</p>
 
 ###
