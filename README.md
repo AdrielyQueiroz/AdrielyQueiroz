@@ -1,4 +1,4 @@
-
+body {black}
 <p align="left">Olá! Eu sou Adriely Queiroz 👋🏻.<br><br>Estagiária em Desenvolvimento Front-End, sou apaixonada em criar interfaces dinâmicas e responsivas.</p>
 
 ###
