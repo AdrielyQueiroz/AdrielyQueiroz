@@ -4,9 +4,7 @@
 
 ###
 
-<h1 align="left">Tecnologias 💡</h1><br>
-
-###
+<h1 align="left">Tecnologias 💡</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,7 +27,7 @@
 <h1>Contato 🌐</h1>
 
 <p aligm="start">
-[🔗 LinkedIn](https://www.linkedin.com/in/adriely-queiroz/)  
+[🔗 LinkedIn](https://www.linkedin.com/in/adriely-queiroz/)<br> 
 [📧 Email](Adrielesqueiroz.203@gmail.com)
 </p>
 
