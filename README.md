@@ -22,13 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
+</div><br>
 
 <h1>Contato 🌐</h1>
 
 <p aligm="start">
 [🔗](https://www.linkedin.com/in/adriely-queiroz/)<br> 
-[📧](Adrielesqueiroz.203@gmail.com)
+[📧](Adrielysqueiroz.203@gmail.com)
 </p><br>
 
 ###
