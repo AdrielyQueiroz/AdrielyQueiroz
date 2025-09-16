@@ -1,4 +1,6 @@
-<p align="left">Olá! Eu sou Adriely Queiroz 👋🏻.<br><br>Estagiária em Desenvolvimento Front-End, sou apaixonada em criar interfaces dinâmicas e responsivas.<br><br>Estou sempre em busca de conhecimentos em novas tecnologias para melhor atender ao usuário, e colocar em prática todo estudo adquirido tem sido meu objetivo. </p>
+<h1 align="left">Olá! Eu sou Adriely Queiroz 👋🏻.</h1><br><br>
+
+<p align="start">Estagiária em Desenvolvimento Front-End, sou apaixonada em criar interfaces dinâmicas e responsivas.<br><br>Estou sempre em busca de conhecimentos em novas tecnologias para melhor atender ao usuário, e colocar em prática todo conhecimento adquirido tem sido meu objetivo. </p>
 
 ###
 
