@@ -27,9 +27,9 @@
 <h1>Contato 🌐</h1>
 
 <p aligm="start">
-[🔗 LinkedIn](https://www.linkedin.com/in/adriely-queiroz/)<br> 
-[📧 Email](Adrielesqueiroz.203@gmail.com)
-</p>
+[🔗](https://www.linkedin.com/in/adriely-queiroz/)<br> 
+[📧](Adrielesqueiroz.203@gmail.com)
+</p><br>
 
 ###
 
