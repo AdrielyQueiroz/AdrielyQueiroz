@@ -4,17 +4,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/adriely-queiroz-b5b2481b2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Adrielysqueiroz.203@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">Tecnologias 💡</h1><br>
 
 ###
@@ -36,6 +25,13 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+<h1>Contato 🌐</h1>
+
+<p aligm="start">
+[🔗 LinkedIn](https://www.linkedin.com/in/adriely-queiroz/)  
+[📧 Email](Adrielesqueiroz.203@gmail.com)
+</p>
 
 ###
 
